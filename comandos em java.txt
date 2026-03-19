@@ -4,4 +4,7 @@ Ctrl+Shift+P
 "No build tools" (para projetos simples)
 
 
-#Executar Matriz
+#Executar
+Clicar em Run
+No terminal: javac NomeDoArquivo.java
+java NomeDoArquivo
