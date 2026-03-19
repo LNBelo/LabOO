@@ -1,0 +1,7 @@
+#Criar projeto
+Ctrl+Shift+P
+"Java: Create Java Project"
+"No build tools" (para projetos simples)
+
+
+#Executar Matriz
